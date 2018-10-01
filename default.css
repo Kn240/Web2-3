@@ -10,7 +10,11 @@
     p{color:red}
     @import url("css/default.css");
     body{
-      background-color: #00bfff
+      background-color: #00bfff;
+    }
+    h1 span{
+      color: #ffb6c1;
+    }
   </style>
 </head>
 <body>
