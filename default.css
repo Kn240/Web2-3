@@ -5,6 +5,7 @@
   <title>3回目</title>
   <link rel="stylesheet" href="css/default.css" type="text/css">
   <style>
+  @charset "UTF-8"; 
     body {
       background: #00ffff
     }
@@ -12,5 +13,6 @@
 </head>
 <body>
   <h1>背景色を変更</h1>
+  <h2>文字を太字に</h2>
 </body>
 </html>
