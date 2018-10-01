@@ -6,8 +6,11 @@
   <link rel="stylesheet" href="css/default.css" type="text/css">
 
   <style type="text/css">
+    @charset "UTF-8";
     p{color:red}
     @import url("css/default.css");
+    body{
+      background-color: #00bfff
   </style>
 </head>
 <body>
