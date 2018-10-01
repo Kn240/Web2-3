@@ -9,9 +9,10 @@
     @import url("css/default.css");
     p{color:red}
     @charset "UTF-8";
+    body{
+      background-color: #00bfff;
     }
     h1{
-      background-color: #00dgfff;
       color: #ff0000;
     }
   </style>
