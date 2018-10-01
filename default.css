@@ -13,12 +13,12 @@
       background-color: #00bfff;
     }
     h1 span{
-      color: #ffb6c1;
+      background-color: #ff0000;
+      color: #ff0000;
     }
   </style>
 </head>
 <body>
-  <p style="color:red">赤色</p>
   <h1><span>背景色を変更</span></h1>
 </body>
 </html>
