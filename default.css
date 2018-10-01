@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang=“ja”>
-  <head>
-    <meta charset=“UFT-8”>
-    <title>CSS</title>
-    <style>
-      body {
-        background: #eeeeee;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>CSS入門</h1>
-    <p>はじめてのCSS</p>
-  </body>
-</html>
+<head>
+    <title>タイトル</title>
+    <link rel=“stylesheet” href=“css/default.css” type=“text/css”>
+</head>
